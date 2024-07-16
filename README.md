@@ -27,32 +27,33 @@ Forneça uma visão geral concisa do seu aplicativo. Mencione seu propósito, pr
 
 ```
 LiterAlura/
-├── fonte/
-│ ├── principal/
-│ │ ├──java/
-│ │ │ └── com/
-│ │ │ └── literal/
-│ │ │ └── gutendexapi/
-│ │ │ ├── controlador/
-│ │ │ │ └── GutendexController.java
-│ │ │ ├── modelo/
-│ │ │ │ ├── Autor.java
-│ │ │ │ └── Livro.java
-│ │ │ ├── repositório/
-│ │ │ │ ├── AuthorRepository.java
-│ │ │ │ └── BookRepository.java
-│ │ │ └── serviço/
-│ │ │ └── GutendexService.java
-│ │ └── recursos/
-│ │ └── application.properties
-│ └── teste/
-│ └──java/
-│ └── com/
-│ └── literalura/
-│ └── gutendexapi/
-│ └── GutendexApiApplicationTests.java
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── literalura/
+│   │   │           └── gutendexapi/
+│   │   │               ├── controller/
+│   │   │               │   └── GutendexController.java
+│   │   │               ├── model/
+│   │   │               │   ├── Author.java
+│   │   │               │   └── Book.java
+│   │   │               ├── repository/
+│   │   │               │   ├── AuthorRepository.java
+│   │   │               │   └── BookRepository.java
+│   │   │               └── service/
+│   │   │                   └── GutendexService.java
+│   │   └── resources/
+│   │       └── application.properties
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── literalura/
+│                   └── gutendexapi/
+│                       └── GutendexApiApplicationTests.java
 ├── build.gradle
-└── configurações.gradle
+└── settings.gradle
+
 ```
 
 ## Configurar
