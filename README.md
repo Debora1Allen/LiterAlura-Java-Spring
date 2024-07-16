@@ -6,7 +6,7 @@ Breve descrição ou introdução do seu projeto.
 
 1. [Introdução](#introdução)
 2. [Recursos](#recursos)
-3. [Estrutura](#estrutura de pasta)
+3. [Estrutura](#estrutura)
 4. [Configuração](#setup)
 5. [Uso](#uso)
 6. [Contribuindo](#contribuindo)
@@ -23,7 +23,7 @@ Forneça uma visão geral concisa do seu aplicativo. Mencione seu propósito, pr
 - Recurso 3: Listagem de autores vivos em determinado ano
 - ...
 
-## Estrutura de pastas
+## Estrutura
 
 ```
 LiterAlura/
