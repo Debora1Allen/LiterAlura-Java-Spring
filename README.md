@@ -6,7 +6,7 @@ Breve descrição ou introdução do seu projeto.
 
 1. [Introdução](#introdução)
 2. [Recursos](#recursos)
-3. [Estrutura de pasta](#estrutura de pasta)
+3. [Estrutura](#estrutura de pasta)
 4. [Configuração](#setup)
 5. [Uso](#uso)
 6. [Contribuindo](#contribuindo)
