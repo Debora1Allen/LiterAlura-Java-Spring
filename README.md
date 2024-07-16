@@ -19,8 +19,8 @@ Forneça uma visão geral concisa do seu aplicativo. Mencione seu propósito, pr
 ## Características
 
 - Recurso 1: Concultar Catálogo de Autores
-- Recurso 2: LIstagem de livros por idiomas
-- Recurso 3: LIstagem de autores vivos em determinado ano
+- Recurso 2: Listagem de livros por idiomas
+- Recurso 3: Listagem de autores vivos em determinado ano
 - ...
 
 ## Estrutura de pastas
