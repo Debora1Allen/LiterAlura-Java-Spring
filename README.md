@@ -1,6 +1,6 @@
 # LiterAlura
 
-Breve descrição ou introdução do seu projeto.
+Projeto Challenge da Alura pelo programa ONE, uma Api com Spring Boot integrada com a api Gutendex
 
 ## Índice
 
